@@ -43,4 +43,8 @@
     <!--for EvMe-->
     <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ"/>
     <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE"/>
+
+    <!--for new sony-->
+    <uses-permission android:name="com.sonyericsson.launcher.permission.BROADCAST_BADGE"/>
+    <uses-permission android:name="com.sonymobile.launcher.permission.PROVIDER_INSERT_BADGE"/>
 </manifest>
